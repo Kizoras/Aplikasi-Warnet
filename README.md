@@ -7,4 +7,5 @@ Ada 4 trigger yang terdiri dari :
 3. trg_pc_selesai di tabel transaksi, untuk mengubah status PC menjadi "kosong" saat transaksi selesai
 4. trg_log_pembayaran di tabel pembayaran, untuk mencatat aktivitas pembayaran ke log
 
-## Kelompok 8 : -Justin Arya Barraq Logawi <br> -Arya Bintang Akbarri <br> -Jibril Fawaz Alfirdaus
+## Kelompok 8 : 
+-Justin Arya Barraq Logawi <br> -Arya Bintang Akbarri <br> -Jibril Fawaz Alfirdaus
