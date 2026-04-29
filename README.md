@@ -1,4 +1,7 @@
 # Aplikasi-Warnet
+## Kelompok 8 : 
+-Justin Arya Barraq Logawi (16) <br> -Arya Bintang Akbarri (5) <br> -Jibril Fawaz Alfirdaus (15)
+
 Pada sistem Xreovos Net, digunakan beberapa trigger untuk mengotomatisasi proses dalam database. Trigger pertama adalah trg_tambah_jam, yang berjalan setelah terjadi penambahan data pada tabel log_tambah_waktu. Trigger ini berfungsi untuk memperbarui durasi total dan total pembayaran pada tabel transaksi ketika customer menambah waktu penggunaan komputer, tanpa membuat transaksi baru.
 
 Trigger kedua adalah trg_pc_dipakai, yang berjalan setelah data transaksi baru dibuat. Trigger ini berfungsi untuk mengubah status komputer pada tabel pc menjadi “dipakai”, sehingga sistem secara otomatis menandai bahwa komputer tersebut sedang digunakan.
@@ -15,5 +18,3 @@ Ada 4 trigger yang terdiri dari :
 3. trg_pc_selesai di tabel transaksi, untuk mengubah status PC menjadi "kosong" saat transaksi selesai
 4. trg_log_pembayaran di tabel pembayaran, untuk mencatat aktivitas pembayaran ke log
 
-## Kelompok 8 : 
--Justin Arya Barraq Logawi (16) <br> -Arya Bintang Akbarri (5) <br> -Jibril Fawaz Alfirdaus (15)
