@@ -8,4 +8,4 @@ Ada 4 trigger yang terdiri dari :
 4. trg_log_pembayaran di tabel pembayaran, untuk mencatat aktivitas pembayaran ke log
 
 ## Kelompok 8 : 
--Justin Arya Barraq Logawi <br> -Arya Bintang Akbarri <br> -Jibril Fawaz Alfirdaus
+-Justin Arya Barraq Logawi (16) <br> -Arya Bintang Akbarri (5) <br> -Jibril Fawaz Alfirdaus (15)
