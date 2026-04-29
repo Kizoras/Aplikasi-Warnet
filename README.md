@@ -1,8 +1,8 @@
 # Aplikasi-Warnet
 ## Kelompok 8 :
-### -Justin Arya Barraq Logawi
-### -Arya Bintang Akbarri
-### -Jibril Fawaz Alfirdaus
+## -Justin Arya Barraq Logawi
+## -Arya Bintang Akbarri
+## -Jibril Fawaz Alfirdaus
 Ada 4 trigger yang terdiri dari :
 1. trg_tambah_jam di tabel log_tambah_waktu, untuk menambah durasi dan total biaya di transaksi saat user tambah waktu
 2. trg_pc_dipakai di tabel transaksi, untuk mengubah status PC menjadi "dipakai" saat transaksi dibuat
