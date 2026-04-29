@@ -1,5 +1,5 @@
 # Aplikasi-Warnet
-
+Trigger digunakan untuk mengotomatisasi sistem, seperti menambah durasi, mengubah status PC, dan mencatat pembayaran tanpa input manual
 
 Ada 4 trigger yang terdiri dari :
 1. trg_tambah_jam di tabel log_tambah_waktu, untuk menambah durasi dan total biaya di transaksi saat user tambah waktu
